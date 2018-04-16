@@ -3,7 +3,6 @@ layout: pattern
 title: Queue based load leveling
 folder: queue-load-leveling
 permalink: /patterns/queue-load-leveling/
-pumlid: 
 categories: Other
 tags:
  - Java
